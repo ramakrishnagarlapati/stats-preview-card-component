@@ -95,6 +95,7 @@ main {
 @media screen and (min-width:650px) {
     main {
         min-width: 70%;
+        min-height: 400px;
         display: flex;
     }
 
@@ -125,6 +126,7 @@ main {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        margin-top: 4rem;
     }
 
     .figures .figure {
